@@ -21,4 +21,4 @@ for filename in os.listdir('./cogs'):
         counter += 1
 print(f'Finished loading [{counter}] cogs')
 
-bot.run("OTgxMTA0MjQyNDEwNTM2OTcw.GKsjGY.NjwQMGdTpe7OjpAJXK2S16gPYuaU_nrbqf1c0A")
+bot.run("")
